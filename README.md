@@ -6,6 +6,13 @@ Goal: detect meter maids in videos/images in order to trigger notifications abou
 * Throw an alley cat to collect training data where people take photos of meter maids
 * Use city traffic cameras. Eliminate our own hardware. https://web.seattle.gov/Travelers/
 
+## Streamng Info
+Client ID:k1buh8awffc3
+Player ID:DFRTA8HH
+Feed ID:(none)
+Analytics ID:LFpPSthQEeK1ghIxOQulpA
+Stream Host:61e0c5d388c2e.streamlock.net
+
 ## Resources
 * https://www.v7labs.com/blog/yolo-object-detection
 * https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
