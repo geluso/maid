@@ -7,11 +7,22 @@ Goal: detect meter maids in videos/images in order to trigger notifications abou
 * Use city traffic cameras. Eliminate our own hardware. https://web.seattle.gov/Travelers/
 
 ## Streamng Info
+```
+Title:Unknown Title
+Duration:Infinity
+Media ID:(none)
 Client ID:k1buh8awffc3
 Player ID:DFRTA8HH
 Feed ID:(none)
 Analytics ID:LFpPSthQEeK1ghIxOQulpA
 Stream Host:61e0c5d388c2e.streamlock.net
+Stream Type:hls
+Provider:hlsjs
+Viewport:360x235
+Resolution / Mode:1280x720 / auto
+Dropped Frames:0/2625
+Version:8.34.5
+```
 
 ## Resources
 * https://www.v7labs.com/blog/yolo-object-detection
